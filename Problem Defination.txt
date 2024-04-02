@@ -1,0 +1,19 @@
+-> Airline Customer Satisfaction:
+
+1. Problem Statement: Predicting airline customer satisfaction based on various factors to enhance service quality and customer experience.
+
+2. Goal: Develop a machine learning model that accurately predicts customer satisfaction with airline services, achieving an accuracy of at least 80%.
+
+3. Metrics: Accuracy, Precision, Recall, F1-score.
+
+4. Stakeholders: Airline management, customer service department, marketing team, passengers.
+
+5. Data Sources:
+    - Historical customer feedback and survey data provided by the airline.
+    - Flight records including departure/arrival times, delays, cancellations, and routes.
+
+6. Constraint: Limited budget and resources for data collection and analysis.
+
+7. Assumption: 
+    - The provided data represents diverse demographics and flight experiences across various routes and classes.
+    - The customer feedback accurately reflects their satisfaction levels.
